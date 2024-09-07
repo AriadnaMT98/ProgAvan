@@ -1,0 +1,30 @@
+Control de versiones: Es un sistema que registra los cambios realizados en un archivo o 
+conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones 
+específicas más adelante. Permite regresar a versiones anteriores de los archivos, a una 
+versión anterior del proyecto completo, comparar cambios a lo largo del tiempo, ver quién 
+modificó por última vez algo que pueda estar causando problemas, ver quién introdujo un 
+problema y cuándo.
+Repositorio local: Es un contenedor de archivos que se encuentra en el ordenador. Éste 
+puede tener un proyecto lleno de diferentes archivos y es allí donde se hacen modificaciones, 
+guardándolas para así, ir creando varias versiones.
+Repositorio remoto: Los repositorios remotos son versiones de un proyecto que están 
+alojadas en Internet o en alguna red.
+Commit: Finaliza una unidad de trabajo y confirma los cambios de base de datos realizados 
+por dicha unidad de trabajo.
+Branch (rama): Es una ramificación del estado del código que crea un nuevo camino para la 
+evolución de éste. Hace posible incorporar nuevas funcionalidades al código de manera 
+ordenada y precisa.
+Merge (combinar): Se utiliza para fusionar uno o más ramas dentro de la rama que tienes 
+activa.
+Pull request: Es una función de GitHub que permite a tu equipo solicitar la revisión y 
+aprobación de sus cambios antes de fusionarlos en la rama principal de desarrollo.
+Fork (bifurcación): Es simplemente una copia de un repositorio existente en el que el nuevo 
+propietario desconecta la base de código de los colaboradores anteriores. Ocurre cuando un 
+desarrollador se siente insatisfecho con la dirección de un proyecto y quiere separar su 
+trabajo del del proyecto original.
+Clone (clonar): Es una utilidad de línea de comandos de Git que se utiliza para fijar como 
+objetivo un repositorio y crear una copia de él.
+Conflictos merge: Ocurren cuando se hacen cambios contrapuestos en la misma línea de un 
+archivo o cuando una persona edita un archivo y otra persona borra el mismo archivo.
+Gitignore: Se utilizan para excluir algunos archivos del directorio de trabajo del historial de 
+Git.
